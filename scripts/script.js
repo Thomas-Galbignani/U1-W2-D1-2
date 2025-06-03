@@ -56,7 +56,7 @@ let x = 12;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-//myName = `Galbignani`; // questo darà un altro errore
+//myName = `Galbignani`; // questo darà un errore
 //console.log((myName = `Galbignani`));
 
 /* ESERCIZIO 6
